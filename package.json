@@ -1,0 +1,10 @@
+{
+  "name": "robert-half-api",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2",
+    "serverless-http": "^3.1.1"
+  }
+}
